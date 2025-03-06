@@ -1,5 +1,5 @@
-# reveal-password-chome-plugin
-Simple plugin to reveal password fields
+# Reveal password Chome Plugin
+Just a simple plugin to reveal password fields
 
 # To enable
 
